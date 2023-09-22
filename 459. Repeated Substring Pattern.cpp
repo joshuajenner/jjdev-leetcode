@@ -31,7 +31,6 @@ bool repeatedSubstringPattern(string s)
 				return true;
 			}
 		}
-
 	}
 	return false;
 }
