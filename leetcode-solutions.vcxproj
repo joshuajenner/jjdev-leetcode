@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="1768. Merge Strings Alternately.cpp" />
+    <ClCompile Include="389. Find the Difference.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="template.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
