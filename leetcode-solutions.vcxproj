@@ -128,7 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1768. Merge Strings Alternately.cpp" />
+    <ClCompile Include="242. Valid Anagram.cpp" />
+    <ClCompile Include="28. Find the Index of the First Occurrence in a String.cpp" />
+    <ClCompile Include="283. Move Zeroes.cpp" />
     <ClCompile Include="389. Find the Difference.cpp" />
+    <ClCompile Include="459. Repeated Substring Pattern.cpp" />
+    <ClCompile Include="66. Plus One.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
