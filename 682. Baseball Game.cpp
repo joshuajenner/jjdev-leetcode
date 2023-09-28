@@ -26,5 +26,32 @@ int calPoints(vector<string>& operations);
 
 int calPoints(vector<string>& operations)
 {
+	int totalScore = 0;
+	vector<int> previousScores = {};
+	for (string instruction : operations)
+	{
+		if (instruction == "+")
+		{
+			previousScores.push_back(previousScores.back()  + previousScores.at(previousScores.size() - 2));
+			totalScore += previousScores.back();
 
+		}
+		else if (instruction == "D")
+		{	
+			previousScores.push_back(previousScores.back() * 2);
+			totalScore += previousScores.back();
+		}
+		else if (instruction == "C")
+		{
+			totalScore -= previousScores.back();
+			previousScores.pop_back();
+		}
+		else
+		{
+			int newScore = stoi(instruction);
+			totalScore += newScore;
+			previousScores.push_back(newScore);
+		}	
+	}
+	return totalScore;
 }
