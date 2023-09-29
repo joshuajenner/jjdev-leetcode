@@ -1,3 +1,4 @@
+#include <string>
 using namespace std;
 
 // There is a robot starting at the position (0, 0), the origin, on a 2D plane. 
@@ -13,8 +14,37 @@ using namespace std;
 // 'L' will always make it move left, etc.
 // Also, assume that the magnitude of the robot's movement is the same for each move.
 
-void newFunction(int);
+bool judgeCircle(string moves);
 
-void newFunction(int)
+bool judgeCircle(string moves)
 {
+	int x = 0;
+	int y = 0;
+	for (char move : moves)
+	{
+		if (move == 'L')
+		{
+			x += 1;
+		}
+		else if (move == 'R')
+		{
+			x -= 1;
+		}
+		else if (move == 'U')
+		{
+			y += 1;
+		}
+		else if (move == 'D')
+		{
+			y -= 1;
+		}
+	}
+	if (x == 0 && y == 0)
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
 }
