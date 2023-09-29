@@ -66,5 +66,11 @@
     <ClCompile Include="657. Robot Return to Origin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1275. Find Winner on a Tic Tac Toe Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1041. Robot Bounded In Circle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
