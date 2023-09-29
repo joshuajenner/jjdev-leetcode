@@ -63,5 +63,8 @@
     <ClCompile Include="682. Baseball Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="657. Robot Return to Origin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
