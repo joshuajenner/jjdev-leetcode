@@ -72,5 +72,8 @@
     <ClCompile Include="1041. Robot Bounded In Circle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1572. Matrix Diagonal Sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
