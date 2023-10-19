@@ -7,10 +7,14 @@ vector<int> spiralOrder(vector<vector<int>>& matrix);
 
 vector<int> spiralOrder(vector<vector<int>>& matrix)
 {
-	// 0 > // 1 V // 2 < // 3 ^
-	int direction = 0;
-	int length = 0;
-	int height = 0;
+	enum Direction {goingLeft, goingDown, goingRight, goingUp};
+	Direction direction = goingLeft;
+
+	int topBorder = 0;
+	int rightBorder = 0;
+	int bottomBorder = 0;
+	int leftBorder = 0;
+
 	int count = matrix[0].size() * matrix.size();
 	vector<int> matrixSpiral = {};
 	vector<int> position = { 0, 0 };
@@ -22,32 +26,36 @@ vector<int> spiralOrder(vector<vector<int>>& matrix)
 		// update position and direction
 		switch (direction)
 		{
-			case 0:
+			case goingLeft:
 				position[0] += 1;
-				if (position[0] >= matrix[0].size() - 1 - length) {
-					direction = 1;
-					position[0] += 1;
+				if (position[0] == (matrix[0].size() - rightBorder))
+				{
+					direction = goingDown;
+					topBorder += 1;
 				}
 				break;
-			case 1:
+			case goingDown:
 				position[1] += 1;
-				if (position[1] >= matrix.size() - 1 - height) {
-					direction = 2;
-					position[1] += 1;
+				if (position[1] == (matrix.size() - bottomBorder))
+				{
+					direction = goingRight;
+					rightBorder += 1;
 				}
 				break;
-			case 2:
+			case goingRight:
 				position[0] -= 1;
-				if (position[0] < 0 + length) {
-					direction = 3;
-					position[0] -= 1;
+				if (position[0] == (matrix[0].size() - leftBorder))
+				{
+					direction = goingUp;
+					bottomBorder += 1;
 				}
 				break;
-			case 3:
-				position[1] -= 1;
-				if (position[1] < 0 + height) {
-					direction = 0;
-					position[1] -= 1;
+			case goingUp:
+				position[1] += 1;
+				if (position[1] == (matrix.size() - topBorder))
+				{
+					direction = goingLeft;
+					leftBorder += 1;
 				}
 				break;
 		}
