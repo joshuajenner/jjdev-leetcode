@@ -139,6 +139,7 @@
     <ClCompile Include="283. Move Zeroes.cpp" />
     <ClCompile Include="389. Find the Difference.cpp" />
     <ClCompile Include="459. Repeated Substring Pattern.cpp" />
+    <ClCompile Include="54. Spiral Matrix.cpp" />
     <ClCompile Include="58. Length of Last Word.cpp" />
     <ClCompile Include="657. Robot Return to Origin.cpp" />
     <ClCompile Include="66. Plus One.cpp" />

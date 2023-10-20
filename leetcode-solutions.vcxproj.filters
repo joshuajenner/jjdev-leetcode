@@ -75,5 +75,8 @@
     <ClCompile Include="1572. Matrix Diagonal Sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="54. Spiral Matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
