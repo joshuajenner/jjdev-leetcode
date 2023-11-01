@@ -149,6 +149,9 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="73. Set Matrix Zeroes.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
