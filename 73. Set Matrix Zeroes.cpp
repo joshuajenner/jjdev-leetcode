@@ -13,6 +13,7 @@ void setZeroes(vector<vector<int>>& matrix)
 {
     int rowMark = -2;
     int colMark = -3;
+    int bothMark = -4;
 
     for (int y = 0; y < matrix.size(); y++) {
         for (int x = 0; x < matrix[y].size(); x++)
@@ -21,7 +22,16 @@ void setZeroes(vector<vector<int>>& matrix)
             {
                 // cout << to_string(y) + " , " + to_string(x);
                 // cout << "\n";
-                matrix[0][x] = rowMark;
+                if (matrix[0][x] == colMark)
+                {
+                    matrix[0][x] = bothMark;
+                }
+                else
+                {
+                    matrix[0][x] = rowMark;
+                }
+
+                
                 matrix[y][0] = colMark;
             }
         }
