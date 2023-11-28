@@ -11,52 +11,40 @@ void setZeroes(vector<vector<int>>& matrix);
 
 void setZeroes(vector<vector<int>>& matrix)
 {
-    int rowMark = -2;
-    int colMark = -3;
-    int bothMark = -4;
+    int marked = -99;
 
-    for (int y = 0; y < matrix.size(); y++) {
-        for (int x = 0; x < matrix[y].size(); x++)
+    for (int x = 0; x < matrix.size(); x++)
+    {
+        for (int y = 0; y < matrix[x].size(); y++)
         {
-            if (matrix[y][x] == 0)
+            if (matrix[x][y] == 0)
             {
-                // cout << to_string(y) + " , " + to_string(x);
-                // cout << "\n";
-                if (matrix[0][x] == colMark)
+                for (int x2 = 0; x2 < matrix.size(); x2++)
                 {
-                    matrix[0][x] = bothMark;
-                }
-                else
-                {
-                    matrix[0][x] = rowMark;
+                    if (matrix[x2][y] != 0)
+                    {
+                        matrix[x2][y] = marked;
+                    }
                 }
 
-                
-                matrix[y][0] = colMark;
+                for (int y2 = 0; y2 < matrix[x].size(); y2++)
+                {
+                    if (matrix[x][y2] != 0)
+                    {
+                        matrix[x][y2] = marked;
+                    }
+                }
             }
         }
     }
 
-    for (int y = 0; y < matrix.size(); y++)
+    for (int x = 0; x < matrix.size(); x++)
     {
-        if (matrix[y][0] == colMark)
+        for (int y = 0; y < matrix[x].size(); y++)
         {
-            // cout << to_string(y) + " Row \n";
-            for (int x = 0; x < matrix[y].size(); x++)
+            if (matrix[x][y] == marked)
             {
-                matrix[y][x] = 0;
-            }
-        }
-    }
-
-    for (int x = 0; x < matrix[0].size(); x++)
-    {
-        if (matrix[0][x] == rowMark)
-        {
-            // cout << to_string(x) + " Col \n";
-            for (int y = 0; y < matrix.size(); y++)
-            {
-                matrix[y][x] = 0;
+                matrix[x][y] = 0;
             }
         }
     }
