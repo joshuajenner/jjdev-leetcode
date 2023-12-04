@@ -78,6 +78,9 @@
     <ClCompile Include="54. Spiral Matrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1523. Count Odd Numbers in an Interval Range.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
