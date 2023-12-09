@@ -148,6 +148,7 @@
     <ClCompile Include="682. Baseball Game.cpp" />
     <ClCompile Include="709. To Lower Case.cpp" />
     <ClCompile Include="896. Monotonic Array.cpp" />
+    <ClCompile Include="94. Binary Tree Inorder Traversal.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
