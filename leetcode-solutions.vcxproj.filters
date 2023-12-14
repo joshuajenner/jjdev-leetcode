@@ -99,6 +99,27 @@
     <ClCompile Include="1266. Minimum Time Visiting All Points.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2482. Difference Between Ones and Zeros in Row and Column.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1464. Maximum Product of Two Elements in an Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1672. Richest Customer Wealth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1688. Count of Matches in Tournament.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1716. Calculate Money in Leetcode Bank.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1903. Largest Odd Number in String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2264. Largest 3-Same-Digit Number in String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
