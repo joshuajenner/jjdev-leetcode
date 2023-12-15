@@ -120,6 +120,9 @@
     <ClCompile Include="2264. Largest 3-Same-Digit Number in String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1436. Destination City.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
