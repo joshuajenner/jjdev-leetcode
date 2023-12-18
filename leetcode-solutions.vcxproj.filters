@@ -123,6 +123,9 @@
     <ClCompile Include="1436. Destination City.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1913. Maximum Product Difference Between Two Pairs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
