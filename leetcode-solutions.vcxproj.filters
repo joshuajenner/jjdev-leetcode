@@ -129,6 +129,9 @@
     <ClCompile Include="661. Image Smoother.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2706. Buy Two Chocolates.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
