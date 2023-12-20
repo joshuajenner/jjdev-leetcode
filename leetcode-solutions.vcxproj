@@ -157,6 +157,7 @@
     <ClCompile Include="606. Construct String from Binary Tree.cpp" />
     <ClCompile Include="657. Robot Return to Origin.cpp" />
     <ClCompile Include="66. Plus One.cpp" />
+    <ClCompile Include="661. Image Smoother.cpp" />
     <ClCompile Include="682. Baseball Game.cpp" />
     <ClCompile Include="709. To Lower Case.cpp" />
     <ClCompile Include="867. Transpose Matrix.cpp" />
