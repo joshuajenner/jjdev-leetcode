@@ -132,6 +132,9 @@
     <ClCompile Include="2706. Buy Two Chocolates.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1758. Minimum Changes To Make Alternating Binary String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
