@@ -135,6 +135,12 @@
     <ClCompile Include="1758. Minimum Changes To Make Alternating Binary String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1578. Minimum Time to Make Rope Colorful.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1897. Redistribute Characters to Make All Strings Equal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
