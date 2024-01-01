@@ -144,6 +144,9 @@
     <ClCompile Include="1624. Largest Substring Between Two Equal Characters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="455. Assign Cookies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
