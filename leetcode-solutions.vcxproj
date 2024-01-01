@@ -139,6 +139,7 @@
     <ClCompile Include="1572. Matrix Diagonal Sum.cpp" />
     <ClCompile Include="1578. Minimum Time to Make Rope Colorful.cpp" />
     <ClCompile Include="1582. Special Positions in a Binary Matrix.cpp" />
+    <ClCompile Include="1624. Largest Substring Between Two Equal Characters.cpp" />
     <ClCompile Include="1672. Richest Customer Wealth.cpp" />
     <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
     <ClCompile Include="1716. Calculate Money in Leetcode Bank.cpp" />

@@ -141,6 +141,9 @@
     <ClCompile Include="1897. Redistribute Characters to Make All Strings Equal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1624. Largest Substring Between Two Equal Characters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
