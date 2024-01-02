@@ -152,6 +152,7 @@
     <ClCompile Include="2264. Largest 3-Same-Digit Number in String.cpp" />
     <ClCompile Include="242. Valid Anagram.cpp" />
     <ClCompile Include="2482. Difference Between Ones and Zeros in Row and Column.cpp" />
+    <ClCompile Include="2610. Convert an Array Into a 2D Array With Conditions.cpp" />
     <ClCompile Include="2706. Buy Two Chocolates.cpp" />
     <ClCompile Include="28. Find the Index of the First Occurrence in a String.cpp" />
     <ClCompile Include="283. Move Zeroes.cpp" />
