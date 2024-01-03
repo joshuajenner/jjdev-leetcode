@@ -150,6 +150,9 @@
     <ClCompile Include="2610. Convert an Array Into a 2D Array With Conditions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2125. Number of Laser Beams in a Bank.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">

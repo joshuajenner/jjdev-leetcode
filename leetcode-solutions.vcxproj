@@ -149,6 +149,7 @@
     <ClCompile Include="1897. Redistribute Characters to Make All Strings Equal.cpp" />
     <ClCompile Include="1903. Largest Odd Number in String.cpp" />
     <ClCompile Include="1913. Maximum Product Difference Between Two Pairs.cpp" />
+    <ClCompile Include="2125. Number of Laser Beams in a Bank.cpp" />
     <ClCompile Include="2264. Largest 3-Same-Digit Number in String.cpp" />
     <ClCompile Include="242. Valid Anagram.cpp" />
     <ClCompile Include="2482. Difference Between Ones and Zeros in Row and Column.cpp" />
