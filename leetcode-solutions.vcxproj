@@ -157,6 +157,7 @@
     <ClCompile Include="2706. Buy Two Chocolates.cpp" />
     <ClCompile Include="28. Find the Index of the First Occurrence in a String.cpp" />
     <ClCompile Include="283. Move Zeroes.cpp" />
+    <ClCompile Include="2870. Minimum Number of Operations to Make Array Empty.cpp" />
     <ClCompile Include="389. Find the Difference.cpp" />
     <ClCompile Include="455. Assign Cookies.cpp" />
     <ClCompile Include="459. Repeated Substring Pattern.cpp" />

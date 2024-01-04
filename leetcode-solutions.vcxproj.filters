@@ -153,6 +153,9 @@
     <ClCompile Include="2125. Number of Laser Beams in a Bank.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2870. Minimum Number of Operations to Make Array Empty.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
