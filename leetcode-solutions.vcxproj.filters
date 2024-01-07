@@ -147,13 +147,10 @@
     <ClCompile Include="455. Assign Cookies.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2610. Convert an Array Into a 2D Array With Conditions.cpp">
+    <ClCompile Include="446. Arithmetic Slices II - Subsequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2125. Number of Laser Beams in a Bank.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2870. Minimum Number of Operations to Make Array Empty.cpp">
+    <ClCompile Include="1235. Maximum Profit in Job Scheduling.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
