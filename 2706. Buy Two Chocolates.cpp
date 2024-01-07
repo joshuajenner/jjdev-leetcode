@@ -1,4 +1,5 @@
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 // You are given an integer array prices representing the prices of various chocolates in a store.
