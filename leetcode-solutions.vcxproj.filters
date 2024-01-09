@@ -156,6 +156,15 @@
     <ClCompile Include="2870. Minimum Number of Operations to Make Array Empty.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="300. Longest Increasing Subsequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="938. Range Sum of BST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="872. Leaf-Similar Trees.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">

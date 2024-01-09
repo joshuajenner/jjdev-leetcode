@@ -158,6 +158,7 @@
     <ClCompile Include="28. Find the Index of the First Occurrence in a String.cpp" />
     <ClCompile Include="283. Move Zeroes.cpp" />
     <ClCompile Include="2870. Minimum Number of Operations to Make Array Empty.cpp" />
+    <ClCompile Include="300. Longest Increasing Subsequence.cpp" />
     <ClCompile Include="389. Find the Difference.cpp" />
     <ClCompile Include="455. Assign Cookies.cpp" />
     <ClCompile Include="459. Repeated Substring Pattern.cpp" />
@@ -170,7 +171,9 @@
     <ClCompile Include="682. Baseball Game.cpp" />
     <ClCompile Include="709. To Lower Case.cpp" />
     <ClCompile Include="867. Transpose Matrix.cpp" />
+    <ClCompile Include="872. Leaf-Similar Trees.cpp" />
     <ClCompile Include="896. Monotonic Array.cpp" />
+    <ClCompile Include="938. Range Sum of BST.cpp" />
     <ClCompile Include="94. Binary Tree Inorder Traversal.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="template.cpp" />
