@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1041. Robot Bounded In Circle.cpp" />
+    <ClCompile Include="1235. Maximum Profit in Job Scheduling.cpp" />
     <ClCompile Include="1266. Minimum Time Visiting All Points.cpp" />
     <ClCompile Include="1275. Find Winner on a Tic Tac Toe Game.cpp" />
     <ClCompile Include="1287. Element Appearing More Than 25% In Sorted Array.cpp" />
@@ -149,17 +150,16 @@
     <ClCompile Include="1897. Redistribute Characters to Make All Strings Equal.cpp" />
     <ClCompile Include="1903. Largest Odd Number in String.cpp" />
     <ClCompile Include="1913. Maximum Product Difference Between Two Pairs.cpp" />
-    <ClCompile Include="2125. Number of Laser Beams in a Bank.cpp" />
     <ClCompile Include="2264. Largest 3-Same-Digit Number in String.cpp" />
     <ClCompile Include="242. Valid Anagram.cpp" />
     <ClCompile Include="2482. Difference Between Ones and Zeros in Row and Column.cpp" />
-    <ClCompile Include="2610. Convert an Array Into a 2D Array With Conditions.cpp" />
     <ClCompile Include="2706. Buy Two Chocolates.cpp" />
     <ClCompile Include="28. Find the Index of the First Occurrence in a String.cpp" />
     <ClCompile Include="283. Move Zeroes.cpp" />
     <ClCompile Include="2870. Minimum Number of Operations to Make Array Empty.cpp" />
     <ClCompile Include="300. Longest Increasing Subsequence.cpp" />
     <ClCompile Include="389. Find the Difference.cpp" />
+    <ClCompile Include="446. Arithmetic Slices II - Subsequence.cpp" />
     <ClCompile Include="455. Assign Cookies.cpp" />
     <ClCompile Include="459. Repeated Substring Pattern.cpp" />
     <ClCompile Include="54. Spiral Matrix.cpp" />
