@@ -1,3 +1,5 @@
+#include <utility>
+#include <cstdlib> 
 using namespace std;
 
 // You are given the root of a binary tree with unique values, and an integer start. At minute 0, an infection starts from the node with value start.
@@ -19,29 +21,39 @@ struct TreeNode
 };
  
 
-int amountOfTime(TreeNode* root, int start);
 
-int amountOfTime(TreeNode* root, int start)
-{
-	int timeNeeded = 0;
-    int treeHeight = maxHeight(root);
+class Solution {
+private:
+    int maxDistance = 0;
 
-    
-
-	return timeNeeded;
-}
-
-int maxHeight(TreeNode* node)
-{
-    if (node == nullptr)
-        return 0;
-    else {
-        int leftHeight = maxHeight(node->left);
-        int rightHeight = maxHeight(node->right);
- 
-        if (leftHeight > rightHeight)
-            return (leftHeight + 1);
-        else
-            return (rightHeight + 1);
+public:
+    int amountOfTime(TreeNode* root, int start) {
+        traverse(root, start);
+        return maxDistance;
     }
-}
+
+    int traverse(TreeNode* root, int start) {
+        int depth = 0;
+        if (root == nullptr) {
+            return depth;
+        }
+
+        int leftDepth = traverse(root->left, start);
+        int rightDepth = traverse(root->right, start);
+
+        if (root->val == start) {
+            maxDistance = max(leftDepth, rightDepth);
+            depth = -1;
+        }
+        else if (leftDepth >= 0 && rightDepth >= 0) {
+            depth = max(leftDepth, rightDepth) + 1;
+        }
+        else {
+            int distance = abs(leftDepth) + abs(rightDepth);
+            maxDistance = max(maxDistance, distance);
+            depth = min(leftDepth, rightDepth) - 1;
+        }
+
+        return depth;
+    }
+};
