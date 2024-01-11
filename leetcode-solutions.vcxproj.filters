@@ -168,6 +168,9 @@
     <ClCompile Include="2385. Amount of Time for Binary Tree to Be Infected.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1026. Maximum Difference Between Node and Ancestor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">

@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1026. Maximum Difference Between Node and Ancestor.cpp" />
     <ClCompile Include="1041. Robot Bounded In Circle.cpp" />
     <ClCompile Include="1235. Maximum Profit in Job Scheduling.cpp" />
     <ClCompile Include="1266. Minimum Time Visiting All Points.cpp" />
