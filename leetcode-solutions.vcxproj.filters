@@ -171,6 +171,9 @@
     <ClCompile Include="1026. Maximum Difference Between Node and Ancestor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1704. Determine if String Halves Are Alike.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
