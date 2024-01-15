@@ -177,6 +177,9 @@
     <ClCompile Include="1347. Minimum Number of Steps to Make Two Strings Anagram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2225. Find Players With Zero or One Losses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">
