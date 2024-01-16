@@ -185,5 +185,6 @@
     <None Include="73. Set Matrix Zeroes.cpp">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="380. Insert Delete GetRandom O1.cpp" />
   </ItemGroup>
 </Project>
