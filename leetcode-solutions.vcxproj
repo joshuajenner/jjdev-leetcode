@@ -104,6 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -154,6 +155,7 @@
     <ClCompile Include="1897. Redistribute Characters to Make All Strings Equal.cpp" />
     <ClCompile Include="1903. Largest Odd Number in String.cpp" />
     <ClCompile Include="1913. Maximum Product Difference Between Two Pairs.cpp" />
+    <ClCompile Include="2225. Find Players With Zero or One Losses.cpp" />
     <ClCompile Include="2264. Largest 3-Same-Digit Number in String.cpp" />
     <ClCompile Include="2385. Amount of Time for Binary Tree to Be Infected.cpp" />
     <ClCompile Include="242. Valid Anagram.cpp" />
@@ -184,6 +186,7 @@
     <ClCompile Include="template.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="380. Insert Delete GetRandom O1.cpp" />
     <None Include="73. Set Matrix Zeroes.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
