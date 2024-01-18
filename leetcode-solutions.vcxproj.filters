@@ -181,6 +181,12 @@
     <ClCompile Include="2225. Find Players With Zero or One Losses.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1207. Unique Number of Occurrences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="70. Climbing Stairs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="73. Set Matrix Zeroes.cpp">

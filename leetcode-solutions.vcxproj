@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="1026. Maximum Difference Between Node and Ancestor.cpp" />
     <ClCompile Include="1041. Robot Bounded In Circle.cpp" />
+    <ClCompile Include="1207. Unique Number of Occurrences.cpp" />
     <ClCompile Include="1235. Maximum Profit in Job Scheduling.cpp" />
     <ClCompile Include="1266. Minimum Time Visiting All Points.cpp" />
     <ClCompile Include="1275. Find Winner on a Tic Tac Toe Game.cpp" />
@@ -176,6 +177,7 @@
     <ClCompile Include="66. Plus One.cpp" />
     <ClCompile Include="661. Image Smoother.cpp" />
     <ClCompile Include="682. Baseball Game.cpp" />
+    <ClCompile Include="70. Climbing Stairs.cpp" />
     <ClCompile Include="709. To Lower Case.cpp" />
     <ClCompile Include="867. Transpose Matrix.cpp" />
     <ClCompile Include="872. Leaf-Similar Trees.cpp" />
