@@ -17,6 +17,7 @@
 using namespace std;
 #include <vector>
 #include <string>
+#include <algorithm>
 
 class Solution {
 public:
