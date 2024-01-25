@@ -62,6 +62,7 @@
     <ClCompile Include="931. Minimum Falling Path Sum.cpp" />
     <ClCompile Include="1239. Maximum Length of a Concatenated String with Unique Characters.cpp" />
     <ClCompile Include="1457. Pseudo-Palindromic Paths in a Binary Tree.cpp" />
+    <ClCompile Include="1143. Longest Common Subsequence.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
