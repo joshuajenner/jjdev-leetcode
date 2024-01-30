@@ -64,6 +64,7 @@
     <ClCompile Include="1457. Pseudo-Palindromic Paths in a Binary Tree.cpp" />
     <ClCompile Include="1143. Longest Common Subsequence.cpp" />
     <ClCompile Include="232. Implement Queue using Stacks.cpp" />
+    <ClCompile Include="150. Evaluate Reverse Polish Notation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />

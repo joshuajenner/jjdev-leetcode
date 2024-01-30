@@ -142,6 +142,7 @@
     <ClCompile Include="1436. Destination City.cpp" />
     <ClCompile Include="1457. Pseudo-Palindromic Paths in a Binary Tree.cpp" />
     <ClCompile Include="1464. Maximum Product of Two Elements in an Array.cpp" />
+    <ClCompile Include="150. Evaluate Reverse Polish Notation.cpp" />
     <ClCompile Include="1502. Can Make Arithmetic Progression From Sequence.cpp" />
     <ClCompile Include="1523. Count Odd Numbers in an Interval Range.cpp" />
     <ClCompile Include="1572. Matrix Diagonal Sum.cpp" />
