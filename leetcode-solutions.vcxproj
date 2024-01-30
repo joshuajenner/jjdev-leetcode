@@ -161,6 +161,7 @@
     <ClCompile Include="1913. Maximum Product Difference Between Two Pairs.cpp" />
     <ClCompile Include="2225. Find Players With Zero or One Losses.cpp" />
     <ClCompile Include="2264. Largest 3-Same-Digit Number in String.cpp" />
+    <ClCompile Include="232. Implement Queue using Stacks.cpp" />
     <ClCompile Include="2385. Amount of Time for Binary Tree to Be Infected.cpp" />
     <ClCompile Include="242. Valid Anagram.cpp" />
     <ClCompile Include="2482. Difference Between Ones and Zeros in Row and Column.cpp" />
