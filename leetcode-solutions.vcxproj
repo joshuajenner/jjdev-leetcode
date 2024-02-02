@@ -137,6 +137,7 @@
     <ClCompile Include="1266. Minimum Time Visiting All Points.cpp" />
     <ClCompile Include="1275. Find Winner on a Tic Tac Toe Game.cpp" />
     <ClCompile Include="1287. Element Appearing More Than 25% In Sorted Array.cpp" />
+    <ClCompile Include="1291. Sequential Digits.cpp" />
     <ClCompile Include="13. Roman to Integer.cpp" />
     <ClCompile Include="1347. Minimum Number of Steps to Make Two Strings Anagram.cpp" />
     <ClCompile Include="1436. Destination City.cpp" />
