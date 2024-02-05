@@ -172,6 +172,7 @@
     <ClCompile Include="283. Move Zeroes.cpp" />
     <ClCompile Include="2870. Minimum Number of Operations to Make Array Empty.cpp" />
     <ClCompile Include="300. Longest Increasing Subsequence.cpp" />
+    <ClCompile Include="387. First Unique Character in a String.cpp" />
     <ClCompile Include="389. Find the Difference.cpp" />
     <ClCompile Include="446. Arithmetic Slices II - Subsequence.cpp" />
     <ClCompile Include="455. Assign Cookies.cpp" />
