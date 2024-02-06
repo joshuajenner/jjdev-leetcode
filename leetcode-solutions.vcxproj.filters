@@ -68,6 +68,7 @@
     <ClCompile Include="739. Daily Temperatures.cpp" />
     <ClCompile Include="1291. Sequential Digits.cpp" />
     <ClCompile Include="387. First Unique Character in a String.cpp" />
+    <ClCompile Include="49. Group Anagrams.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
