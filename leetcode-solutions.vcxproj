@@ -168,6 +168,7 @@
     <ClCompile Include="242. Valid Anagram.cpp" />
     <ClCompile Include="2482. Difference Between Ones and Zeros in Row and Column.cpp" />
     <ClCompile Include="2706. Buy Two Chocolates.cpp" />
+    <ClCompile Include="279. Perfect Squares.cpp" />
     <ClCompile Include="28. Find the Index of the First Occurrence in a String.cpp" />
     <ClCompile Include="283. Move Zeroes.cpp" />
     <ClCompile Include="2870. Minimum Number of Operations to Make Array Empty.cpp" />
