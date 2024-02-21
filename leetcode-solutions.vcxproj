@@ -167,6 +167,7 @@
     <ClCompile Include="2385. Amount of Time for Binary Tree to Be Infected.cpp" />
     <ClCompile Include="242. Valid Anagram.cpp" />
     <ClCompile Include="2482. Difference Between Ones and Zeros in Row and Column.cpp" />
+    <ClCompile Include="268. Missing Number.cpp" />
     <ClCompile Include="2706. Buy Two Chocolates.cpp" />
     <ClCompile Include="279. Perfect Squares.cpp" />
     <ClCompile Include="28. Find the Index of the First Occurrence in a String.cpp" />
