@@ -74,6 +74,7 @@
     <ClCompile Include="268. Missing Number.cpp" />
     <ClCompile Include="201. Bitwise AND of Numbers Range.cpp" />
     <ClCompile Include="997. Find the Town Judge.cpp" />
+    <ClCompile Include="787. Cheapest Flights Within K Stops.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
