@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="100. Same Tree.cpp" />
     <ClCompile Include="1026. Maximum Difference Between Node and Ancestor.cpp" />
     <ClCompile Include="1041. Robot Bounded In Circle.cpp" />
     <ClCompile Include="1143. Longest Common Subsequence.cpp" />
