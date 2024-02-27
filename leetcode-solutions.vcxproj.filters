@@ -76,6 +76,7 @@
     <ClCompile Include="997. Find the Town Judge.cpp" />
     <ClCompile Include="787. Cheapest Flights Within K Stops.cpp" />
     <ClCompile Include="100. Same Tree.cpp" />
+    <ClCompile Include="543. Diameter of Binary Tree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
