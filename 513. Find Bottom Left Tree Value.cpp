@@ -1,29 +1,44 @@
-//Given the root of a binary tree, return the leftmost value in the last row of the tree.
+// Given the root of a binary tree, return the leftmost value in the last row of the tree.
 
-struct TreeNode {
+using namespace std;
+#include <queue>
+
+struct TreeNode
+{
     int val;
     TreeNode *left;
     TreeNode *right;
-    TreeNode(): val(0), left(nullptr), right(nullptr) {}
+    TreeNode() : val(0), left(nullptr), right(nullptr) {}
     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
-class Solution {
+class Solution
+{
 public:
-    int leftMost = 0;
-
-    int findBottomLeftValue(TreeNode* root) 
+    int findBottomLeftValue(TreeNode *root)
     {
-        GetLeftMostValue(root, 0);
-        return leftMost;
-    }
+        queue<TreeNode *> q;
+        q.push(root);
+        int leftmost_value;
 
-    void GetLeftMostValue(TreeNode* node, int level) 
-    {
-        if (node == nullptr) 
+        while (!q.empty())
         {
-            return;
+            TreeNode *node = q.front();
+            q.pop();
+
+            leftmost_value = node->val;
+
+            if (node->right)
+            {
+                q.push(node->right);
+            }
+            if (node->left)
+            {
+                q.push(node->left);
+            }
         }
+
+        return leftmost_value;
     }
 };
