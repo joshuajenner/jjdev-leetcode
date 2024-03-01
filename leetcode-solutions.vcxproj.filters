@@ -78,6 +78,7 @@
     <ClCompile Include="100. Same Tree.cpp" />
     <ClCompile Include="543. Diameter of Binary Tree.cpp" />
     <ClCompile Include="513. Find Bottom Left Tree Value.cpp" />
+    <ClCompile Include="2864. Maximum Odd Binary Number.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
