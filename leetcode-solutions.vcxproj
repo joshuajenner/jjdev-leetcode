@@ -203,6 +203,7 @@
     <ClCompile Include="931. Minimum Falling Path Sum.cpp" />
     <ClCompile Include="938. Range Sum of BST.cpp" />
     <ClCompile Include="94. Binary Tree Inorder Traversal.cpp" />
+    <ClCompile Include="948. Bag of Tokens.cpp" />
     <ClCompile Include="997. Find the Town Judge.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="template.cpp" />
