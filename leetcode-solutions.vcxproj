@@ -156,6 +156,7 @@
     <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
     <ClCompile Include="1704. Determine if String Halves Are Alike.cpp" />
     <ClCompile Include="1716. Calculate Money in Leetcode Bank.cpp" />
+    <ClCompile Include="1750. Minimum Length of String After Deleting Similar Ends.cpp" />
     <ClCompile Include="1758. Minimum Changes To Make Alternating Binary String.cpp" />
     <ClCompile Include="1768. Merge Strings Alternately.cpp" />
     <ClCompile Include="1822. Sign of the Product of an Array.cpp" />
