@@ -81,6 +81,7 @@
     <ClCompile Include="2864. Maximum Odd Binary Number.cpp" />
     <ClCompile Include="948. Bag of Tokens.cpp" />
     <ClCompile Include="1750. Minimum Length of String After Deleting Similar Ends.cpp" />
+    <ClCompile Include="141. Linked List Cycle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
