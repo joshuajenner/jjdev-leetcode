@@ -201,6 +201,7 @@
     <ClCompile Include="787. Cheapest Flights Within K Stops.cpp" />
     <ClCompile Include="867. Transpose Matrix.cpp" />
     <ClCompile Include="872. Leaf-Similar Trees.cpp" />
+    <ClCompile Include="876. Middle of the Linked List.cpp" />
     <ClCompile Include="896. Monotonic Array.cpp" />
     <ClCompile Include="931. Minimum Falling Path Sum.cpp" />
     <ClCompile Include="938. Range Sum of BST.cpp" />

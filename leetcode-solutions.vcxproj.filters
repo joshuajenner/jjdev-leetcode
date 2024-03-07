@@ -82,6 +82,7 @@
     <ClCompile Include="948. Bag of Tokens.cpp" />
     <ClCompile Include="1750. Minimum Length of String After Deleting Similar Ends.cpp" />
     <ClCompile Include="141. Linked List Cycle.cpp" />
+    <ClCompile Include="876. Middle of the Linked List.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
