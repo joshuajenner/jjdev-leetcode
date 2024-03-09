@@ -1,5 +1,14 @@
 {
     "files.associations": {
-        "vector": "cpp"
+        "vector": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "xstring": "cpp",
+        "utility": "cpp",
+        "xutility": "cpp",
+        "unordered_set": "cpp",
+        "xhash": "cpp",
+        "list": "cpp"
     }
 }
