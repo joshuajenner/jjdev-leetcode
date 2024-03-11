@@ -84,6 +84,7 @@
     <ClCompile Include="141. Linked List Cycle.cpp" />
     <ClCompile Include="876. Middle of the Linked List.cpp" />
     <ClCompile Include="3005. Count Elements With Maximum Frequency.cpp" />
+    <ClCompile Include="791. Custom Sort String.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />

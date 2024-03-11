@@ -200,6 +200,7 @@
     <ClCompile Include="709. To Lower Case.cpp" />
     <ClCompile Include="739. Daily Temperatures.cpp" />
     <ClCompile Include="787. Cheapest Flights Within K Stops.cpp" />
+    <ClCompile Include="791. Custom Sort String.cpp" />
     <ClCompile Include="867. Transpose Matrix.cpp" />
     <ClCompile Include="872. Leaf-Similar Trees.cpp" />
     <ClCompile Include="876. Middle of the Linked List.cpp" />
