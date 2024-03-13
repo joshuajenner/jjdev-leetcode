@@ -86,6 +86,7 @@
     <ClCompile Include="3005. Count Elements With Maximum Frequency.cpp" />
     <ClCompile Include="791. Custom Sort String.cpp" />
     <ClCompile Include="1171. Remove Zero Sum Consecutive Nodes from Linked List.cpp" />
+    <ClCompile Include="2485. Find the Pivot Integer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
