@@ -191,6 +191,7 @@
     <ClCompile Include="459. Repeated Substring Pattern.cpp" />
     <ClCompile Include="49. Group Anagrams.cpp" />
     <ClCompile Include="513. Find Bottom Left Tree Value.cpp" />
+    <ClCompile Include="525. Contiguous Array.cpp" />
     <ClCompile Include="54. Spiral Matrix.cpp" />
     <ClCompile Include="543. Diameter of Binary Tree.cpp" />
     <ClCompile Include="58. Length of Last Word.cpp" />
