@@ -187,6 +187,7 @@
     <ClCompile Include="389. Find the Difference.cpp" />
     <ClCompile Include="446. Arithmetic Slices II - Subsequence.cpp" />
     <ClCompile Include="451. Sort Characters By Frequency.cpp" />
+    <ClCompile Include="452. Minimum Number of Arrows to Burst Balloons.cpp" />
     <ClCompile Include="455. Assign Cookies.cpp" />
     <ClCompile Include="459. Repeated Substring Pattern.cpp" />
     <ClCompile Include="49. Group Anagrams.cpp" />
@@ -195,6 +196,7 @@
     <ClCompile Include="543. Diameter of Binary Tree.cpp" />
     <ClCompile Include="58. Length of Last Word.cpp" />
     <ClCompile Include="606. Construct String from Binary Tree.cpp" />
+    <ClCompile Include="621. Task Scheduler.cpp" />
     <ClCompile Include="657. Robot Return to Origin.cpp" />
     <ClCompile Include="66. Plus One.cpp" />
     <ClCompile Include="661. Image Smoother.cpp" />

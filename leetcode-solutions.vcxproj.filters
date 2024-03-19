@@ -89,6 +89,8 @@
     <ClCompile Include="2485. Find the Pivot Integer.cpp" />
     <ClCompile Include="930. Binary Subarrays With Sum.cpp" />
     <ClCompile Include="238. Product of Array Except Self.cpp" />
+    <ClCompile Include="452. Minimum Number of Arrows to Burst Balloons.cpp" />
+    <ClCompile Include="621. Task Scheduler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
