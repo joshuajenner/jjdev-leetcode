@@ -91,6 +91,7 @@
     <ClCompile Include="238. Product of Array Except Self.cpp" />
     <ClCompile Include="452. Minimum Number of Arrows to Burst Balloons.cpp" />
     <ClCompile Include="621. Task Scheduler.cpp" />
+    <ClCompile Include="525. Contiguous Array.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
