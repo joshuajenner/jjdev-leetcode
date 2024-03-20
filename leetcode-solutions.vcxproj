@@ -154,6 +154,7 @@
     <ClCompile Include="1582. Special Positions in a Binary Matrix.cpp" />
     <ClCompile Include="1624. Largest Substring Between Two Equal Characters.cpp" />
     <ClCompile Include="1657. Determine if Two Strings Are Close.cpp" />
+    <ClCompile Include="1669. Merge In Between Linked Lists.cpp" />
     <ClCompile Include="1672. Richest Customer Wealth.cpp" />
     <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
     <ClCompile Include="1704. Determine if String Halves Are Alike.cpp" />

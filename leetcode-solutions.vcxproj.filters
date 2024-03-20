@@ -92,6 +92,7 @@
     <ClCompile Include="452. Minimum Number of Arrows to Burst Balloons.cpp" />
     <ClCompile Include="621. Task Scheduler.cpp" />
     <ClCompile Include="525. Contiguous Array.cpp" />
+    <ClCompile Include="1669. Merge In Between Linked Lists.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
