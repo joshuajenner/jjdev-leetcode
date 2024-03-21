@@ -93,6 +93,7 @@
     <ClCompile Include="621. Task Scheduler.cpp" />
     <ClCompile Include="525. Contiguous Array.cpp" />
     <ClCompile Include="1669. Merge In Between Linked Lists.cpp" />
+    <ClCompile Include="206. Reverse Linked List.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
