@@ -188,6 +188,7 @@
     <ClCompile Include="3005. Count Elements With Maximum Frequency.cpp" />
     <ClCompile Include="387. First Unique Character in a String.cpp" />
     <ClCompile Include="389. Find the Difference.cpp" />
+    <ClCompile Include="442. Find All Duplicates in an Array.cpp" />
     <ClCompile Include="446. Arithmetic Slices II - Subsequence.cpp" />
     <ClCompile Include="451. Sort Characters By Frequency.cpp" />
     <ClCompile Include="452. Minimum Number of Arrows to Burst Balloons.cpp" />

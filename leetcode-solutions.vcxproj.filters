@@ -95,6 +95,7 @@
     <ClCompile Include="1669. Merge In Between Linked Lists.cpp" />
     <ClCompile Include="206. Reverse Linked List.cpp" />
     <ClCompile Include="234. Palindrome Linked List.cpp" />
+    <ClCompile Include="442. Find All Duplicates in an Array.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />
