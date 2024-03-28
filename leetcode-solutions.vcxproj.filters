@@ -96,6 +96,7 @@
     <ClCompile Include="206. Reverse Linked List.cpp" />
     <ClCompile Include="234. Palindrome Linked List.cpp" />
     <ClCompile Include="442. Find All Duplicates in an Array.cpp" />
+    <ClCompile Include="2958. Length of Longest Subarray With at Most K Frequency.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="380. Insert Delete GetRandom O1.cpp" />

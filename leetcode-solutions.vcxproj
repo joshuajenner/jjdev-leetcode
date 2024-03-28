@@ -184,6 +184,7 @@
     <ClCompile Include="283. Move Zeroes.cpp" />
     <ClCompile Include="2864. Maximum Odd Binary Number.cpp" />
     <ClCompile Include="2870. Minimum Number of Operations to Make Array Empty.cpp" />
+    <ClCompile Include="2958. Length of Longest Subarray With at Most K Frequency.cpp" />
     <ClCompile Include="300. Longest Increasing Subsequence.cpp" />
     <ClCompile Include="3005. Count Elements With Maximum Frequency.cpp" />
     <ClCompile Include="387. First Unique Character in a String.cpp" />
