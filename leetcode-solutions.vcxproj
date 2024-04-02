@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -127,108 +130,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="100. Same Tree.cpp" />
-    <ClCompile Include="1026. Maximum Difference Between Node and Ancestor.cpp" />
-    <ClCompile Include="1041. Robot Bounded In Circle.cpp" />
-    <ClCompile Include="1143. Longest Common Subsequence.cpp" />
-    <ClCompile Include="1171. Remove Zero Sum Consecutive Nodes from Linked List.cpp" />
-    <ClCompile Include="1207. Unique Number of Occurrences.cpp" />
-    <ClCompile Include="1235. Maximum Profit in Job Scheduling.cpp" />
-    <ClCompile Include="1239. Maximum Length of a Concatenated String with Unique Characters.cpp" />
-    <ClCompile Include="1266. Minimum Time Visiting All Points.cpp" />
-    <ClCompile Include="1275. Find Winner on a Tic Tac Toe Game.cpp" />
-    <ClCompile Include="1287. Element Appearing More Than 25% In Sorted Array.cpp" />
-    <ClCompile Include="1291. Sequential Digits.cpp" />
-    <ClCompile Include="13. Roman to Integer.cpp" />
-    <ClCompile Include="1347. Minimum Number of Steps to Make Two Strings Anagram.cpp" />
-    <ClCompile Include="141. Linked List Cycle.cpp" />
-    <ClCompile Include="1436. Destination City.cpp" />
-    <ClCompile Include="1457. Pseudo-Palindromic Paths in a Binary Tree.cpp" />
-    <ClCompile Include="1464. Maximum Product of Two Elements in an Array.cpp" />
-    <ClCompile Include="150. Evaluate Reverse Polish Notation.cpp" />
-    <ClCompile Include="1502. Can Make Arithmetic Progression From Sequence.cpp" />
-    <ClCompile Include="1523. Count Odd Numbers in an Interval Range.cpp" />
-    <ClCompile Include="1572. Matrix Diagonal Sum.cpp" />
-    <ClCompile Include="1578. Minimum Time to Make Rope Colorful.cpp" />
-    <ClCompile Include="1582. Special Positions in a Binary Matrix.cpp" />
-    <ClCompile Include="1624. Largest Substring Between Two Equal Characters.cpp" />
-    <ClCompile Include="1657. Determine if Two Strings Are Close.cpp" />
-    <ClCompile Include="1669. Merge In Between Linked Lists.cpp" />
-    <ClCompile Include="1672. Richest Customer Wealth.cpp" />
-    <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
-    <ClCompile Include="1704. Determine if String Halves Are Alike.cpp" />
-    <ClCompile Include="1716. Calculate Money in Leetcode Bank.cpp" />
-    <ClCompile Include="1750. Minimum Length of String After Deleting Similar Ends.cpp" />
-    <ClCompile Include="1758. Minimum Changes To Make Alternating Binary String.cpp" />
-    <ClCompile Include="1768. Merge Strings Alternately.cpp" />
-    <ClCompile Include="1822. Sign of the Product of an Array.cpp" />
-    <ClCompile Include="1897. Redistribute Characters to Make All Strings Equal.cpp" />
-    <ClCompile Include="1903. Largest Odd Number in String.cpp" />
-    <ClCompile Include="1913. Maximum Product Difference Between Two Pairs.cpp" />
-    <ClCompile Include="201. Bitwise AND of Numbers Range.cpp" />
-    <ClCompile Include="206. Reverse Linked List.cpp" />
-    <ClCompile Include="2225. Find Players With Zero or One Losses.cpp" />
-    <ClCompile Include="2264. Largest 3-Same-Digit Number in String.cpp" />
-    <ClCompile Include="232. Implement Queue using Stacks.cpp" />
-    <ClCompile Include="234. Palindrome Linked List.cpp" />
-    <ClCompile Include="238. Product of Array Except Self.cpp" />
-    <ClCompile Include="2385. Amount of Time for Binary Tree to Be Infected.cpp" />
-    <ClCompile Include="242. Valid Anagram.cpp" />
-    <ClCompile Include="2482. Difference Between Ones and Zeros in Row and Column.cpp" />
-    <ClCompile Include="2485. Find the Pivot Integer.cpp" />
-    <ClCompile Include="268. Missing Number.cpp" />
-    <ClCompile Include="2706. Buy Two Chocolates.cpp" />
-    <ClCompile Include="279. Perfect Squares.cpp" />
-    <ClCompile Include="28. Find the Index of the First Occurrence in a String.cpp" />
-    <ClCompile Include="283. Move Zeroes.cpp" />
-    <ClCompile Include="2864. Maximum Odd Binary Number.cpp" />
-    <ClCompile Include="2870. Minimum Number of Operations to Make Array Empty.cpp" />
-    <ClCompile Include="2958. Length of Longest Subarray With at Most K Frequency.cpp" />
-    <ClCompile Include="300. Longest Increasing Subsequence.cpp" />
-    <ClCompile Include="3005. Count Elements With Maximum Frequency.cpp" />
-    <ClCompile Include="387. First Unique Character in a String.cpp" />
-    <ClCompile Include="389. Find the Difference.cpp" />
-    <ClCompile Include="442. Find All Duplicates in an Array.cpp" />
-    <ClCompile Include="446. Arithmetic Slices II - Subsequence.cpp" />
-    <ClCompile Include="451. Sort Characters By Frequency.cpp" />
-    <ClCompile Include="452. Minimum Number of Arrows to Burst Balloons.cpp" />
-    <ClCompile Include="455. Assign Cookies.cpp" />
-    <ClCompile Include="459. Repeated Substring Pattern.cpp" />
-    <ClCompile Include="49. Group Anagrams.cpp" />
-    <ClCompile Include="513. Find Bottom Left Tree Value.cpp" />
-    <ClCompile Include="525. Contiguous Array.cpp" />
-    <ClCompile Include="54. Spiral Matrix.cpp" />
-    <ClCompile Include="543. Diameter of Binary Tree.cpp" />
-    <ClCompile Include="58. Length of Last Word.cpp" />
-    <ClCompile Include="606. Construct String from Binary Tree.cpp" />
-    <ClCompile Include="621. Task Scheduler.cpp" />
-    <ClCompile Include="657. Robot Return to Origin.cpp" />
-    <ClCompile Include="66. Plus One.cpp" />
-    <ClCompile Include="661. Image Smoother.cpp" />
-    <ClCompile Include="682. Baseball Game.cpp" />
-    <ClCompile Include="70. Climbing Stairs.cpp" />
-    <ClCompile Include="709. To Lower Case.cpp" />
-    <ClCompile Include="739. Daily Temperatures.cpp" />
-    <ClCompile Include="787. Cheapest Flights Within K Stops.cpp" />
-    <ClCompile Include="791. Custom Sort String.cpp" />
-    <ClCompile Include="867. Transpose Matrix.cpp" />
-    <ClCompile Include="872. Leaf-Similar Trees.cpp" />
-    <ClCompile Include="876. Middle of the Linked List.cpp" />
-    <ClCompile Include="896. Monotonic Array.cpp" />
-    <ClCompile Include="930. Binary Subarrays With Sum.cpp" />
-    <ClCompile Include="931. Minimum Falling Path Sum.cpp" />
-    <ClCompile Include="938. Range Sum of BST.cpp" />
-    <ClCompile Include="94. Binary Tree Inorder Traversal.cpp" />
-    <ClCompile Include="948. Bag of Tokens.cpp" />
-    <ClCompile Include="997. Find the Town Judge.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="template.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="380. Insert Delete GetRandom O1.cpp" />
-    <None Include="73. Set Matrix Zeroes.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
