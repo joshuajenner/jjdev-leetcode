@@ -9,6 +9,8 @@
         "xutility": "cpp",
         "unordered_set": "cpp",
         "xhash": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "ctime": "cpp",
+        "xlocale": "cpp"
     }
 }
