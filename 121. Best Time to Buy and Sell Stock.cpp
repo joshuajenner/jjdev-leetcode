@@ -9,20 +9,15 @@
 #include <vector>
 #include <algorithm>
 
-int maxProfit(std::vector<int>& prices) 
-{
-    int buyPrice = prices[0];
-    int profit = 0;
-
-    for (int i = 1; i < prices.size(); i++) 
-    {
-        if (buyPrice > prices[i])
-        {
-            buyPrice = prices[i];
+int maxProfit(std::vector<int>& prices) {
+        int buy = prices[0];
+        int profit = 0;
+        for (int i = 1; i < prices.size(); i++) {
+            if (prices[i] < buy) {
+                buy = prices[i];
+            } else if (prices[i] - buy > profit) {
+                profit = prices[i] - buy;
+            }
         }
-
-        profit = std::max(profit, prices[i] - buyPrice);
+        return profit;
     }
-
-    return profit;        
-}
