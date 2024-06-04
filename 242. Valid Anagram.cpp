@@ -20,9 +20,9 @@ bool isAnagram(string s, string t)
             countMap[s[index]]++;
             countMap[t[index]]--;
         }
-        for (auto i = countMap.begin(); i != countMap.end(); i++)
+        for (auto& i: countMap)
         {
-            if (i->second != 0) {
+            if (i.second != 0) {
                 return false;
             }
         }
